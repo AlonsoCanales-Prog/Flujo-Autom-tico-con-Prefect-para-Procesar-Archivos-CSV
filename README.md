@@ -6,9 +6,9 @@
 
  ## Evidencia
 
- ![Evidencia1](img/evidencia2)
- ![Evidencia2](img/evidencia1)
- ![Evidencia3](img/evidencia3)
+ ![Evidencia1](img/evidencia2.png)
+ ![Evidencia2](img/evidencia1.png)
+ ![Evidencia3](img/evidencia3.png)
 
 
  ## Características del Proyecto
